@@ -89,7 +89,7 @@ con.execute("pragma quick_check").fetchone()
 
 ```
 node_modules/dsh-session-delete -> D:\旧根\dsh-session-delete
-node_modules/@paicat1/dsh-screenshot -> D:\旧根\_plugins\...
+node_modules/@vendor/dsh-screenshot -> D:\旧根\_plugins\...
 ```
 
 源码一搬，链接就悬空，插件加载失败。
